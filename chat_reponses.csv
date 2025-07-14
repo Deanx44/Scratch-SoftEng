@@ -1,0 +1,93 @@
+intent,response
+greeting,Hello! How can I help you with Isla de Cuyo Travel Ease today?
+greeting,Hi there! Need any assistance with your bookings?
+greeting,Hey! What can I do for you today?
+greeting,Good day! How may I assist you?
+greeting,Welcome! How can I make your experience better?
+greeting,Hi! Ready to explore your bookings?
+greeting,Hello! Let me know if you need help with anything.
+greeting,Hey there! What can I assist you with?
+greeting,Hi! How can I support you with Isla de Cuyo Travel Ease?
+greeting,Good to see you! How can I help?
+greeting,Welcome back! What can I do for you today?
+greeting,Hello! Need some guidance or information?
+greeting,Hi! I’m here to help you with any questions.
+greeting,Hey! How can I make your booking easier today?
+greeting,Hello! Let me assist you with your Isla de Cuyo Travel Ease experience.
+greeting,Hi! How’s it going? Need help with anything?
+greeting,Hello! What can I do to assist you?
+greeting,Hey! Looking for something specific today?
+greeting,Hi there! How can I assist you with Isla de Cuyo Travel Ease today?
+greeting,Hello! Need help navigating your next adventure with Isla de Cuyo Travel Ease?
+greeting,Hey! Ready to explore your travel options?
+greeting,Hi! How can I make your booking experience smoother?
+greeting,Hello! Got any questions? I’m here to help.
+greeting,Hi again! What can I do for you today?
+greeting,Hey there! Let’s make your Isla de Cuyo Travel Ease trip amazing.
+greeting,Welcome back! Need assistance with a booking or plan?
+greeting,Good to have you here! How can I assist today?
+greeting,Hi! Excited to help you with your travel needs.
+greeting,Hello! Ready to discover something great with Isla de Cuyo Travel Ease?
+greeting,Hi there! What travel info can I get you today?
+thanks,You're welcome! Glad I could help.
+thanks,No problem! Let me know if you need anything else.
+thanks,Happy to assist you anytime!
+thanks,My pleasure! Reach out if you need more help.
+bye,Goodbye! Have a great day using Isla de Cuyo Travel Ease.
+bye,See you later! Come back anytime for assistance.
+bye,Take care! Hope to chat again soon.
+bye,Thanks for stopping by! Bye for now.
+help,Sure! How can I assist you with Isla de Cuyo Travel Ease?
+help,I'm here to help! What do you want to know about Isla de Cuyo Travel Ease?
+help,Feel free to ask any questions you have.
+help,Let me know what you need assistance with.
+dashboard,You can access the dashboard by logging in and clicking on the Dashboard tab.
+dashboard,The dashboard displays your booking summaries and recent activities.
+dashboard,Check your dashboard for quick stats and updates.
+dashboard,Your dashboard gives an overview of your bookings and status.
+quotation,To create a quotation go to the Quotation section and enter the necessary details.
+quotation,You can edit or delete quotations from the Quotation tab.
+quotation,Use the Quotation page to generate and manage your price estimates.
+quotation,Quotations can be saved, sent, or printed from the Quotation section.
+ticketed,Check your ticket status anytime in the Ticketed section.
+ticketed,You can cancel tickets from the Ticketed section if allowed by policy.
+ticketed,View details and status of your ticketed bookings in the Ticketed tab.
+ticketed,Manage your issued tickets and view travel details in Ticketed.
+customize,Use the Customize tab to tailor booking preferences and packages.
+customize,You can customize your tour package or team building options in the Customize area.
+customize,Personalize your booking experience in the Customize section.
+customize,Tweak your preferences and packages under the Customize tab.
+educational,We offer educational and team building packages suitable for groups and companies.
+educational,Explore various team building activities under the Educational/Team Building section.
+educational,Check out educational tours and team building events designed for learning and fun.
+educational,Our Educational/Team Building section has options for corporate groups and schools.
+tour_package,Book tour packages by selecting one from the Tour Package section.
+tour_package,You can customize tour packages in the Customize tab before booking.
+tour_package,Browse through available tour packages to find your ideal trip.
+tour_package,Choose from a variety of tour packages tailored to your preferences.
+ratings,Rate our services in the Ratings section after your booking.
+ratings,View your past ratings and feedback anytime in the Ratings tab.
+ratings,Your feedback helps us improve! Leave a rating in the Ratings section.
+ratings,Check ratings and reviews to see how others enjoyed their trips.
+general,If you forgot your password use the 'Forgot Password' link to reset it.
+general,For support contact us via the Contact Us page or use this chat.
+general,Make sure your account info is up to date in the settings.
+general,You can update your profile and preferences anytime in your account settings.
+general,You can reset your password using the 'Forgot Password' link on the login page.
+general,Isla de Cuyo Travel Ease is fully accessible via most modern mobile browsers.
+general,You can view our terms and conditions at the bottom of the homepage.
+general,If you need to speak to a representative, please use the Contact Us page or this chat.
+general,We take data privacy seriously — your information is encrypted and secure.
+general,To update your email or contact info, go to Account Settings.
+general,We accept various payment methods including credit cards, debit cards, and PayPal.
+general,Your past bookings can be viewed in your Dashboard under Booking History.
+general,You can browse packages, but booking requires an account for your safety and convenience.
+general,We're working on a rewards program — stay tuned!
+general,If something isn’t working right, please let us know through the Contact Us page.
+general,Yes! We support corporate travel and group bookings. Check out the Educational/Team Building section.
+general,Refunds depend on the policy of your selected package. Check the cancellation rules before booking.
+general,Didn’t get a confirmation email? Check your spam folder or contact support.
+general,Isla de Cuyo Travel Ease works best on Chrome, Firefox, Safari, and Edge.
+general,You can print or download your booking confirmation from the Ticketed section.
+general,To change notification settings, visit your Account Settings.
+general,To delete your account, please contact support through the Contact Us page.
